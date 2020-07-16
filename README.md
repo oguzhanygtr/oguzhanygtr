@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![My desk setup](https://github.com/ibrahimbutt/ibrahimbutt/blob/master/DSCF2970.jpg)
+
+Hey there! I'm a Full-stack Developer, working on a large-scale industry leading financial product. As part of the Feature Team, I deliver features and squash bugs.
+
+You can get in touch with me [@oguzhanygt4r](https://www.instagram.com/oguzhanygtr) or [leave an issue](https://github.com/oguzhanygtr/oguzhanygtr/issues).
