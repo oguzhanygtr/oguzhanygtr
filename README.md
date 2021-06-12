@@ -18,4 +18,6 @@ Here are some ideas to get you started:
 
 Hey there! I'm a Full-stack Developer, working on a large-scale industry leading financial product. As part of the Feature Team, I deliver features and squash bugs.
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=oguzhanygtr&count_private=true&show_icons=true&theme=gotham)
+
 You can get in touch with me [@oguzhanygtr](https://www.instagram.com/oguzhanygtr) or [leave an issue](https://github.com/oguzhanygtr/oguzhanygtr/issues).
