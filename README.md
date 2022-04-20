@@ -20,4 +20,4 @@ Hey there! I'm a Full-stack Developer, working on a large-scale industry leading
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=oguzhanygtr&count_private=true&show_icons=true&theme=gotham)
 
-You can get in touch with me [@oguzhanygtr](https://www.instagram.com/oguzhanygtr) or [leave an issue](https://github.com/oguzhanygtr/oguzhanygtr/issues).
+You can get in touch with me [@oguzhanygtr](https://www.twitter.com/oguzhanygtr) or [leave an issue](https://github.com/oguzhanygtr/oguzhanygtr/issues).
