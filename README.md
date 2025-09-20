@@ -55,7 +55,7 @@ Here are some ideas to get you started:
   style="display: inline-block; margin: 0 auto; width: 100%;"> -->
 
 ```js
-const arthurIturres = {
+const oguzhanygtr = {
   about: [
     `👷🏼‍♂️ Currently working on a Management System,
         Coaching Managememt System`,
@@ -76,7 +76,6 @@ const arthurIturres = {
     '🐦 Swift.',
     '🤖 Kotlin.',
     '🎤 Give technical and soft skills talks.',
-    '🏂 Snowboarding.',
     '⛵ Hitchhike a boat.'
   ]
 };
