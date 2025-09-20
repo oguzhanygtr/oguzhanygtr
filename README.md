@@ -59,12 +59,10 @@ const oguzhanygtr = {
   about: [
     `👷🏼‍♂️ Currently working on a Management System,
         Coaching Managememt System`,
-    `👨‍💻 Technical Team Lead,
-        Frontend Web Engineer at Awesome Org`,
+    `👨‍💻 Technical Team Lead, Frontend Web Developer`,
     '👨‍🏫 Web Development Instructor at Bootcamp Xperience',
-    '📚 Fond of technical, business, self-help and travel books.',
+    '📚 Fond of technical, business books.',
     '🚀 I thrive on Leading, collaborating, organizing, and working with teams.',
-    "🍀 I'm on my way to realizing my second dream, having accomplished the first.",
     '🖥 I enjoy designing web applications.',
     '🙇🏻‍♂️ Currently working with React.ts and Angular',
     `🌟 Besides web development in general, I specialize in optimizing development workflows,
@@ -109,7 +107,5 @@ const oguzhanygtr = {
 </details>
 
 ---
-
-
 
 You can get in touch with me [@oguzhanygtr](https://www.instagram.com/oguzhanygtr) or [leave an issue](https://github.com/oguzhanygtr/oguzhanygtr/issues).
