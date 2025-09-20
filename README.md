@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![My desk setup](https://github.com/oguzhanygtr/oguzhanygtr/blob/master/4cba7d7b-0a6b-4a93-b95f-caf8f8f5f7472.jpg)
+![My desk setup](https://github.com/oguzhanygtr/oguzhanygtr/blob/master/4cba7d7b-0a6b-4a93-b95f-caf8f8f5f7472.jpg = 250x250)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&pause=20000&color=f3b231&center=true&vCenter=true&width=1000&lines=Access+my+portfolio+&#9757;+by+clicking+my+logo)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&pause=20000&color=ccc&center=true&vCenter=true&width=1000&lines=Access+my+portfolio+&#9757;+by+clicking+my+logo)](https://git.io/typing-svg)
 
 </div>
 
