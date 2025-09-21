@@ -72,7 +72,6 @@ const oguzhanygtr = {
     '🐦 Swift.',
     '🤖 Kotlin.',
     '🎤 Give technical and soft skills talks.',
-    '⛵ Hitchhike a boat.'
   ]
 };
 
