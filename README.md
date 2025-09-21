@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 <div>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,astro,styledcomponents,tailwind,php,d3,vercel" />
+      <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,astro,pycharm,xcode,tailwind,php,d3,vercel" />
     </a>
   </p>
 </div>
