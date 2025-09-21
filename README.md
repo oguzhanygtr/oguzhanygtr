@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 <div>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=nodejs,figma,aws,azure,kubernetes,docker,vim,ae,androidstudio,angular,idea,matlab,pycharm,visualstudio,windows,java,tailwind,php,d3,vercel" />
+      <img src="https://skillicons.dev/icons?i=nodejs,figma,aws,azure,kubernetes,docker,vim,ae,androidstudio,angular,idea,matlab,pycharm,visualstudio,java,tailwind,php" />
     </a>
   </p>
 </div>
