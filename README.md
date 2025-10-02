@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <div>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=angular,react,ruby,rails,ts,js,html,css,sass,bootstrap,postgresql,sqlite,wordpress,c,python,babel,npm,git,bash,md,github,linux,figma,idea,webstorm,phpstorm" />
+      <img src="https://skillicons.dev/icons?i=angular,react,ruby,rails,ts,js,html,css,sass,bootstrap,postgresql,sqlite,wordpress,c,cs,cpp,python,babel,npm,git,bash,md,github,linux,figma,idea,webstorm,phpstorm" />
     </a>
   </p>
 </div>
@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 <div>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=nodejs,figma,aws,azure,kubernetes,docker,vim,androidstudio,angular,flutter,matlab,visualstudio,java,tailwind,php" />
+      <img src="https://skillicons.dev/icons?i=nodejs,figma,aws,azure,kubernetes,docker,vim,androidstudio,kotlin,flutter,matlab,visualstudio,java,tailwind,php" />
     </a>
   </p>
 </div>
