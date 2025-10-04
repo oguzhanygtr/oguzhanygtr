@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 </div>
 
 <p align="center">
-    <img alt = "GitHub Stats is experiencing some issues..." src="https://github-readme-stats.vercel.app/api?username=oguzhanygtr&show_icons=true&icon_color=121212&hide_border=true&title_color=7f44de&text_color=efefef&bg_color=fbad10&rank_icon=percentile&include_all_commits=false">
+    <img alt = "GitHub Stats is experiencing some issues..." src="https://github-readme-stats.vercel.app/api?username=oguzhanygtr&show_icons=true&icon_color=121212&hide_border=true&title_color=7f44de&text_color=efefef&bg_color=fbad10&rank_icon=percentile&include_all_commits=true">
     <img alt= "GitHub Streaks is experiencing some issues..." src="https://github-readme-streak-stats.herokuapp.com?user=oguzhanygtr&hide_border=true&date_format=j%20M%5B%20Y%5D&&card_width=400&background=fbad10&currStreakNum=efefef&currStreakLabel=eb6951&dates=121212&ring=7f44de&fire=eb6951&sideLabels=eb6951&sideNums=efefef">
 </p>
 
