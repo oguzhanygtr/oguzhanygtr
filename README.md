@@ -57,11 +57,8 @@ const oguzhanygtr = {
     `👷🏼‍♂️ Currently working on a Management System,
         Coaching Managememt System`,
     `👨‍💻 Technical Team Lead, Frontend Web Developer`,
-    '👨‍🏫 Web Development Instructor at Bootcamp Xperience',
     '📚 Fond of technical, business books.',
     '🚀 I thrive on Leading, collaborating, organizing, and working with teams.',
-    '🖥 I enjoy designing web applications.',
-    '🙇🏻‍♂️ Currently working with React.ts and Angular',
     `🌟 Besides web development in general, I specialize in optimizing development workflows,
         enforcing programming standards, and advocating for adherence to best
         practices to ensure clean, scalable and professional codebases.`
