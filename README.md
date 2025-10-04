@@ -108,4 +108,3 @@ const oguzhanygtr = {
 You can get in touch with me [@oguzhanygtr](https://www.instagram.com/oguzhanygtr) or [leave an issue](https://github.com/oguzhanygtr/oguzhanygtr/issues).
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fbad10&height=120&section=footer"/>
-
