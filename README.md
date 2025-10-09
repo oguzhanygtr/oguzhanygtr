@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 <div>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=nodejs,apple,azure,kubernetes,docker,vim,androidstudio,kotlin,flutter,java,matlab,visualstudio,java,tailwind,php&theme=light" />
+      <img src="https://skillicons.dev/icons?i=nodejs,apple,azure,kubernetes,docker,vim,androidstudio,kotlin,flutter,java,matlab,visualstudio,eclipse,tailwind,php&theme=light" />
     </a>
   </p>
 </div>
