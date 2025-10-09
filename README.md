@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <div>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=react,babel,ts,js,html,css,sass,bootstrap,postgresql,sqlite,wordpress,c,cs,cpp,dotnet,git,bash,md,figma,idea,webstorm,phpstorm,clion" />
+      <img src="https://skillicons.dev/icons?i=react,babel,ts,js,html,css,sass,bootstrap,postgresql,sqlite,wordpress,c,cs,cpp,dotnet,git,bash,figma,idea,webstorm,phpstorm,clion&perline=13" />
     </a>
   </p>
 </div>
