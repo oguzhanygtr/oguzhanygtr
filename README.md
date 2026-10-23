@@ -60,8 +60,8 @@ const oguzhanygtr = {
     '📚 Fond of technical, business books.',
     '🚀 I thrive on Leading, collaborating, organizing, and working with teams.',
     `🌟 Beyond economics in general, I specialize in optimizing analytical workflows,
-ensuring methodological rigor, and advocating for data-driven decision-making and best practices to deliver accurate, reliable,
-and insightful economic analyses.`
+ensuring methodological rigor, and advocating for data-driven decision-making and best practices to deliver accurate,
+ reliable and insightful economic analyses.`
   ],
   futureLearningGoals: [
     '🥖 French.',
