@@ -88,7 +88,6 @@ ensuring methodological rigor, and advocating for data-driven decision-making an
     <ul align='left'>
       <li>📖 Basic Econometrics by Damodar Gujarati</li>
       <li>📘 Clean Code: A Handbook of Agile Software Craftsmanship by Robert C. Martin</li>
-    
     </ul>
 </details>
 
