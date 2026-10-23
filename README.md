@@ -54,14 +54,12 @@ Here are some ideas to get you started:
 ```js
 const oguzhanygtr = {
   about: [
-    `👷🏼‍♂️ Currently working on a Management System,
-        Coaching Managememt System`,
-    `👨‍💻 Technical Team Lead, Frontend Web Developer`,
+    `👷🏼‍♂️ Currently working on an International organization,
+        Resarching International Trade`,
+    `👨‍💻 Team Member, Economist`,
     '📚 Fond of technical, business books.',
     '🚀 I thrive on Leading, collaborating, organizing, and working with teams.',
-    `🌟 Besides web development in general, I specialize in optimizing development workflows,
-        enforcing programming standards, and advocating for adherence to best
-        practices to ensure clean, scalable and professional codebases.`
+    `🌟 Beyond economics in general, I specialize in optimizing analytical workflows, ensuring methodological rigor, and advocating for data-driven decision-making and best practices to deliver accurate, reliable, and insightful economic analyses.`
   ],
   futureLearningGoals: [
     '🥖 French.',
@@ -86,16 +84,9 @@ const oguzhanygtr = {
 <details>
   <summary>🛠️ Technical Books:</summary>
     <ul align='left'>
-      <li>📖 "The Pragmatic Programmer" - By Andrew Hunt and David Thomas.</li>
-      <li>📘 "ProGit" - By Scott Chacon and Ben Straub.</li>
-      <li>📘 "Think Like a Programmer" - By V. Anton Spraul.</li>
-      <li>📖 "Javascript The Definitive Guide" - By David Flanagan.</li>
-      <li>📘 "Learning React" - By Alex Banks and Eve Porcello.</li>
-      <li>📘 "Redux in Action" - By Marc Garreau and Will Faurot.</li>
-      <li>📘 "The Ruby programming language" - By David Flanagan and Yukihiro Matsumoto.</li>
-      <li>📖 "A Common Sense Guide to DSA - 2nd Edition" - By Jay Wengrow.</li>
-      <li>📖 "You Dont Know JavaScript" - By Kyle Simpson.</li>
-      <li>📖 "Clean Code" - By Robert C. Martin.</li>
+      <li>📖 Basic Econometrics by Damodar Gujarati</li>
+      <li>📘 Clean Code: A Handbook of Agile Software Craftsmanship by Robert C. Martin</li>
+    
     </ul>
 </details>
 
